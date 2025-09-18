@@ -1,4 +1,4 @@
-# 🌸 ML IRIS API Project
+# 🌸 ML IRIS API PROJECT
 
 This project implements a **Machine Learning model** for classifying the famous **Iris dataset** into species (*Setosa, Versicolor, Virginica*).  
 It also includes an **API** to serve the model, along with **unit tests** and **integration tests** to ensure correctness and reliability.  
